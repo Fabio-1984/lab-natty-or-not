@@ -26,7 +26,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ - Textos
+  - ChatGPT
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
